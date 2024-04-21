@@ -8,6 +8,8 @@
 
 我很好奇.
 
+<img src="/Users/ycte/Documents/jser-save-the-world/today/docs/assets/image-20240421173024697.png" alt="image-20240421173024697" style="zoom:50%;" />
+
 <div style='text-align:center;'>
   <div style='width:375px;margin:auto;text-align:center;'>
     <p style='font-size: 29px;text-align:left;'>今天</p>
