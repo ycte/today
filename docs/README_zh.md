@@ -9,24 +9,10 @@
 我很好奇.
 
 [English](../README.md) [日本語](./README_JP.md)
+
 <p align='center'>
 <img src="./assets/image-20240421173024697.png" alt="image-20240421173024697" width='50%' />
 </p>
-
-<div style='text-align:center;'>
-  <div style='width:375px;margin:auto;text-align:center;'>
-    <p style='font-size: 29px;text-align:left;'>今天</p>
-    <p style='font-size:99px'>
-      我<span style='font-size:59px'></span>
-    </p>
-    <p style='text-align:right;'>
-      斟酌每一行代码
-    </p>
-    <p style='text-align:right;'>
-      只因我希望努力做到求知若饥，虚心若愚。
-    </p>
-  </div>
-</div>
 
 ## License
 

@@ -14,21 +14,6 @@ Stay Hungry, Stay Foolish.
 <img src="./assets/image-20240421172828117.png" alt="image-20240421172828117" width='50%' />
 </p>
 
-<div style='text-align:center;'>
-  <div style='width:375px;margin:auto;text-align:center;'>
-    <p style='font-size: 29px;text-align:left;'>Today</p>
-    <p style='font-size:99px'>
-      I<span style='font-size:59px'>'m</span>
-    </p>
-    <p style='text-align:right;'>
-      running on 20.02.29.59:2024
-    </p>
-    <p style='text-align:right;'>
-      to be a normal, special and romantic coder.
-    </p>
-  </div>
-</div>
-
 ## License
 
 [MIT](./LICENSE) License © 2024-PRESENT [Xiaoxi Yun](https://github.com/ycte)

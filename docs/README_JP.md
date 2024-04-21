@@ -11,23 +11,9 @@
 [简体中文](./README_zh.md) [English](../README.md)
 
 <p align='center'>
-<img src="./assets/image-20240421172944579.png" alt="image-20240421172944579" width='50%' align='center' />
+<img src="./assets/image-20240421172944579.png" alt="image-20240421172944579" width='50%'/>
 </p>
 
-<div style='text-align:center;'>
-  <div style='width:375px;margin:auto;text-align:center;'>
-    <p style='font-size: 29px;text-align:left;'>今天</p>
-    <p style='font-size:99px'>
-      我<span style='font-size:59px'></span>
-    </p>
-    <p style='text-align:right;'>
-      斟酌每一行代码
-    </p>
-    <p style='text-align:right;'>
-      只因我希望努力做到求知若饥，虚心若愚。
-    </p>
-  </div>
-</div>
 ## License
 
 [MIT](./LICENSE) License © 2024-PRESENT [Xiaoxi Yun](https://github.com/ycte)
