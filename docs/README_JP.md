@@ -6,23 +6,23 @@
 [![JSDocs][jsdocs-src]][jsdocs-href]
 [![License][license-src]][license-href]
 
-Stay Hungry, Stay Foolish.
-[简体中文](docs/README_zh.md) [日本語](docs/README_JP.md)
+わたし、気になります！
 
 <div style='text-align:center;'>
   <div style='width:375px;margin:auto;text-align:center;'>
-    <p style='font-size: 29px;text-align:left;'>Today</p>
+    <p style='font-size: 29px;text-align:left;'>今日も</p>
     <p style='font-size:99px'>
-      I<span style='font-size:59px'>'m</span>
+      わたし<span style='font-size:59px'></span>
     </p>
     <p style='text-align:right;'>
-      running on 20.02.29.59:2024
+      プログラミングにハマっている
     </p>
     <p style='text-align:right;'>
-      to be a normal, special and romantic coder.
+      決して学ぶことをやめない。
     </p>
   </div>
 </div>
+
 
 ## License
 
