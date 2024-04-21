@@ -8,7 +8,9 @@
 
 我很好奇.
 
-<img src="/Users/ycte/Documents/jser-save-the-world/today/docs/assets/image-20240421173024697.png" alt="image-20240421173024697" style="zoom:50%;" />
+[English](../README_zh.md) [日本語](./README_JP.md)
+
+<img src="./assets/image-20240421173024697.png" alt="image-20240421173024697" style="zoom:50%;" />
 
 <div style='text-align:center;'>
   <div style='width:375px;margin:auto;text-align:center;'>
@@ -24,7 +26,6 @@
     </p>
   </div>
 </div>
-
 
 ## License
 

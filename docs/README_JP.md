@@ -8,7 +8,9 @@
 
 わたし、気になります！
 
-<img src="/Users/ycte/Documents/jser-save-the-world/today/docs/assets/image-20240421172944579.png" alt="image-20240421172944579" style="zoom:50%;" />
+[简体中文](./README_zh.md) [English](../README_JP.md)
+
+<img src="./assets/image-20240421172944579.png" alt="image-20240421172944579" style="zoom:50%;" />
 
 <<div style='text-align:center;'>
   <div style='width:375px;margin:auto;text-align:center;'>

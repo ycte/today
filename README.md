@@ -7,9 +7,10 @@
 [![License][license-src]][license-href]
 
 Stay Hungry, Stay Foolish.
+
 [简体中文](docs/README_zh.md) [日本語](docs/README_JP.md)
 
-<img src="/Users/ycte/Documents/jser-save-the-world/today/assets/image-20240421172828117.png" alt="image-20240421172828117" style="zoom:50%;" />
+<img src="./assets/image-20240421172828117.png" alt="image-20240421172828117" style="zoom:50%;" />
 
 <div style='text-align:center;'>
   <div style='width:375px;margin:auto;text-align:center;'>
