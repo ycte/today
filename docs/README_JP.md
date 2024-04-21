@@ -8,11 +8,13 @@
 
 わたし、気になります！
 
-[简体中文](./README_zh.md) [English](../README_JP.md)
+[简体中文](./README_zh.md) [English](../README.md)
 
-<img src="./assets/image-20240421172944579.png" alt="image-20240421172944579" style="zoom:50%;" />
+<p align='center'>
+<img src="./assets/image-20240421172944579.png" alt="image-20240421172944579" width='50%' align='center' />
+</p>
 
-<<div style='text-align:center;'>
+<div style='text-align:center;'>
   <div style='width:375px;margin:auto;text-align:center;'>
     <p style='font-size: 29px;text-align:left;'>今天</p>
     <p style='font-size:99px'>

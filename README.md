@@ -10,7 +10,9 @@ Stay Hungry, Stay Foolish.
 
 [简体中文](docs/README_zh.md) [日本語](docs/README_JP.md)
 
-<img src="./assets/image-20240421172828117.png" alt="image-20240421172828117" style="zoom:50%;" />
+<p align='center'>
+<img src="./assets/image-20240421172828117.png" alt="image-20240421172828117" width='50%' />
+</p>
 
 <div style='text-align:center;'>
   <div style='width:375px;margin:auto;text-align:center;'>
