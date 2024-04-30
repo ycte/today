@@ -11,7 +11,7 @@
 [English](../README.md) [日本語](./README_JP.md)
 
 <p align='center'>
-<img src="./assets/image-20240421173024697.png" alt="image-20240421173024697" width='50%' />
+<img src="./assets/image.png" alt="image" width='50%' />
 </p>
 
 ## License
