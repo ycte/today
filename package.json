@@ -1,7 +1,7 @@
 {
   "name": "today-ycte",
   "type": "module",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "packageManager": "pnpm@8.8.0",
   "description": "Stay Hungry, Stay Foolish.",
   "author": "Xiaoxi Yun <a15260056838@163.com>",
